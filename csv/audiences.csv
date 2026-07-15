@@ -1,0 +1,5 @@
+﻿id,dossierId,date,heure,dateTenueEffective,statut,typeAudience,juridictionId,juridiction,numeroRole,salleAudience,agentId,agent,avocatId,objet,compteRendu,issueAudience,dateRenvoi,piecesDeposees,rappelEnvoye,createdBy,createdAt,updatedAt
+a-001,d-001,2026-06-04,09:00,,PLANIFIEE,PLAIDOIRIE,,Tribunal de Commerce de Douala,R-2026-1187,Salle B12,,Alice NGONO,,Plaidoiries au fond,,,,,FALSE,,,
+a-002,d-002,2026-05-12,10:30,2026-05-12T10:35:00Z,EN_ATTENTE_DELIBERE,FOND,,TPI de Yaoundé Centre Administratif,R-2026-0492,,,Hervé MEFIRE,,Saisie immobilière — clôture des débats,,MIS_EN_DELIBERE,,,TRUE,,,
+a-003,d-003,2026-05-28,14:00,,PLANIFIEE,MISE_EN_ETAT,,TPI de Yaoundé Centre Administratif,R-2026-1031,,,Alice NGONO,,Mise en état — communication des pièces,,,,,FALSE,,,
+a-004,d-005,2026-06-20,09:30,,PLANIFIEE,FOND,,Tribunal de Commerce de Douala,,,,Alice NGONO,,Compte débiteur — première audience,,,,,FALSE,,,

@@ -1,0 +1,4 @@
+﻿id,typeAlerte,severity,title,dossier,dossierId,audienceId,delibereId,destinataireId,message,desc,due,canaux,statut,dateEnvoiEffectif,dateLecture,nbTentatives,createdAt
+1,RAPPEL_AUDIENCE,high,Audience demain : AFB c/ COCOA TRADERS,AFB-2025-00231,d-001,a-001,,,"Plaidoiries au fond — 9h00 — Salle B12, TC Douala","Plaidoiries au fond — 9h00 — Salle B12, TC Douala",2026-06-04,EMAIL;NOTIFICATION_PUSH,EN_ATTENTE,,,0,
+2,DELIBERE_ATTENDU,high,Délibéré attendu — AFB-2025-00198,AFB-2025-00198,d-002,,de-001,,Délibéré prévu le 30/05/2026 — Saisie immobilière,Délibéré prévu le 30/05/2026 — Saisie immobilière,2026-05-30,EMAIL,EN_ATTENTE,,,0,
+3,FRAIS_A_PAYER,medium,Solde honoraires — Cabinet KAMDEM,AFB-2025-00231,d-001,,,,2 000 000 XAF restants à régler (facture KAMDEM-2026-018),2 000 000 XAF restants à régler (facture KAMDEM-2026-018),2026-05-30,EMAIL,EN_ATTENTE,,,0,

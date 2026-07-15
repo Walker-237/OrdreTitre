@@ -1,0 +1,3 @@
+﻿dossierId,id,libelle,typeDocument,dateDocument,fichierNom,fichierUrl,mimeType,tailleOctets,estConfidentiel,uploadedBy,audienceId,delibereId,createdAt
+d-001,,Mise en demeure du 15/06/2025,CORRESPONDANCE,,MED-COCOA-150625.pdf,,,312500,FALSE,,,,
+d-001,,Assignation,ASSIGNATION,,ASSIG-2025-00231.pdf,,,1204800,FALSE,,,,

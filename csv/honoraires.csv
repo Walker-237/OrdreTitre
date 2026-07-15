@@ -1,0 +1,3 @@
+﻿id,dossierId,avocatId,referenceFacture,typeFrais,montantFacture,montantValide,montantPaye,statutPaiement,dateFacture,dateValidation,datePaiement,validateurId,pieceJointeUrl,observations,createdAt
+h-001,d-001,av-001,KAMDEM-2026-018,HONORAIRES,4500000,,2500000,PARTIEL,2026-04-12,,,,,,
+h-002,d-002,av-002,NDOUMOU-2026-007,HONORAIRES,2800000,,2800000,PAYE,2026-03-18,,2026-04-02,,,,

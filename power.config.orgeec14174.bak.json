@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "appId": "00bd518e-ab5e-430d-ac44-6ba29c1e9e97",
+  "appDisplayName": "Audiences et délibérés",
+  "region": "prod",
+  "environmentId": "44bdf7b2-40a3-e1c4-95e0-349ac8c698fb",
+  "description": " ",
+  "buildPath": "Audience/dist/audience/browser",
+  "buildEntryPoint": "index.html",
+  "localAppUrl": "http://localhost:3000",
+  "logoPath": "Default",
+  "connectionReferences": {},
+  "databaseReferences": {}
+}

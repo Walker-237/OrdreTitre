@@ -1,0 +1,4 @@
+id,type,severity,titre,message,dossierId,destinataireId,destinataireEmail,canal,statut,dateCreation,dateEnvoi,dateLecture
+n-001,RAPPEL_AUDIENCE,high,Audience demain,Audience de plaidoirie au Tribunal de Commerce de Douala demain a 09:00,d-001,ag-001,a.ngono@afrilandfirstbank.com,EMAIL,ENVOYEE,2026-06-03T08:00:00Z,2026-06-03T08:01:00Z,
+n-002,DELAI_RECOURS,high,Delai de recours imminent,Le delai d'appel expire dans 7 jours sur le dossier AFB-2025-00231,d-001,ag-001,a.ngono@afrilandfirstbank.com,EMAIL,EN_ATTENTE,2026-06-05T10:00:00Z,,
+n-003,FRAIS_A_PAYER,medium,Honoraire en attente,Facture avocat a valider,d-002,av-001,e.kamdem@cabinet.cm,EMAIL,LUE,2026-06-04T14:30:00Z,2026-06-04T14:31:00Z,2026-06-04T16:10:00Z

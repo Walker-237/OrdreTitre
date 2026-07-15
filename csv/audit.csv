@@ -1,0 +1,3 @@
+﻿id,utilisateurId,utilisateurLogin,action,entiteCible,idEntiteCible,valeurAvant,valeurApres,ipAdresse,userAgent,timestamp
+1,u-admin,admin,LOGIN,SESSION,sess-001,,,10.0.12.44,,2026-05-21T08:12:14Z
+2,u-jur,pndjock,CREATE,DOSSIER_JUDICIAIRE,d-005,,,10.0.12.81,,2026-03-02T09:48:00Z

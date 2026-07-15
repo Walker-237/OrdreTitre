@@ -1,0 +1,3 @@
+﻿id,utilisateurId,nom,prenom,cabinet,numeroBarreau,barreau,specialites,telephone,telephoneSecondaire,email,adresse,ville,seuilDossiersMax,dossiersActifs,taux,honoraires,isActive,dateDebutCollaboration,notes,createdAt,updatedAt
+av-001,,KAMDEM,Eric,Cabinet KAMDEM & Associés,CM-2014-0218,Cameroun,DROIT_BANCAIRE;COMMERCIAL,+237 699 12 34 56,,e.kamdem@kamdem-avocats.cm,,Douala,25,8,78,42000000,TRUE,2021-03-01,,,
+av-002,,NDOUMOU,Sylvie,SCP NDOUMOU,CM-2009-0114,Cameroun,SOCIAL;PRUD_HOMMES,+237 677 88 11 22,,s.ndoumou@scp-ndoumou.cm,,Yaoundé,20,6,71,19500000,TRUE,2019-07-15,,,

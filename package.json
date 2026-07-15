@@ -1,0 +1,46 @@
+{
+  "name": "ordretitres",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "generate-test-import": "tsx scripts/generate-test-import.ts",
+    "generate-test-import:audiences": "tsx scripts/generate-test-import.ts audiences",
+    "generate-test-import:dossiers": "tsx scripts/generate-test-import.ts dossiers",
+    "generate-test-import:honoraires": "tsx scripts/generate-test-import.ts honoraires",
+    "generate-test-import:deliberes": "tsx scripts/generate-test-import.ts deliberes",
+    "generate-test-import:avocats": "tsx scripts/generate-test-import.ts avocats",
+    "generate-test-import:agents": "tsx scripts/generate-test-import.ts agents",
+    "generate-test-import:juridictions": "tsx scripts/generate-test-import.ts juridictions"
+  },
+  "dependencies": {
+    "@microsoft/power-apps": "^1.1.3",
+    "exceljs": "^4.4.0",
+    "jspdf": "^4.2.1",
+    "jspdf-autotable": "^5.0.8",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "react-router-dom": "^7.9.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@microsoft/power-apps-vite": "^1.0.2",
+    "@types/node": "^24.12.4",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.1",
+    "eslint": "^10.3.0",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.2",
+    "globals": "^17.6.0",
+    "tsx": "^4.23.1",
+    "typescript": "~6.0.2",
+    "typescript-eslint": "^8.59.2",
+    "vite": "^8.0.12"
+  }
+}

@@ -1,0 +1,4 @@
+﻿dossierId,id,typePartie,nomRaisonSociale,prenom,numeroCniRccm,nationalite,adresse,telephone,email,qualiteDansDossier,observations,createdAt
+d-001,,PERSONNE_MORALE,COCOA TRADERS SARL,,,,"Bonabéri, Douala",+237 233 50 12 34,,PARTIE_ADVERSE,,
+d-002,,PERSONNE_PHYSIQUE,ABENG,Mireille,,,,,,PARTIE_ADVERSE,,
+d-003,,PERSONNE_PHYSIQUE,TANKEU,Roger,,,,,,DEMANDEUR,,

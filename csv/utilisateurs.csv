@@ -1,0 +1,5 @@
+﻿id,login,nomAffichage,email,role,isActive,sourceAuth,derniereConnexion,createdAt
+u-admin,admin,Fidèle BELLO,fidele_bello@afrilandfirstbank.com,ADMIN,TRUE,LOCAL,2026-05-21T08:12:00Z,
+u-sup,mtopa,Marie TOPA,m.topa@afrilandfirstbank.com,SUPERVISEUR,TRUE,AD,,
+u-jur,pndjock,Paul NDJOCK,p.ndjock@afrilandfirstbank.com,JURISTE,TRUE,AD,,
+u-lect,sotomo,Stéphanie OTOMO,s.otomo@afrilandfirstbank.com,LECTEUR,TRUE,AD,,

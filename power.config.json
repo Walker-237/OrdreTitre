@@ -1,0 +1,91 @@
+{
+  "version": "1.0",
+  "appId": "e603cc0c-635b-4a5f-a492-629021eb9f0f",
+  "appDisplayName": "Audiences et délibérés",
+  "region": "prod",
+  "environmentId": "ca5c9c95-472e-e410-92b0-e34cdfd2e8fc",
+  "description": " ",
+  "buildPath": "dist",
+  "buildEntryPoint": "index.html",
+  "localAppUrl": "http://localhost:3000",
+  "logoPath": "Default",
+  "connectionReferences": {
+    "4444fa6e-4c17-4748-8868-bcdfac9a791f": {
+      "id": "/providers/Microsoft.PowerApps/apis/shared_office365users",
+      "displayName": "Office 365 Users",
+      "dataSources": [
+        "office365users"
+      ],
+      "dataSets": {}
+    },
+    "a5ec7ae4-058f-4ac5-997f-107f146cd651": {
+      "id": "/providers/Microsoft.PowerApps/apis/shared_sharepointonline",
+      "displayName": "SharePoint",
+      "dataSources": [
+        "audiences",
+        "utilisateurs",
+        "juridictions",
+        "avocats",
+        "agents",
+        "dossiers",
+        "parties",
+        "pieces",
+        "deliberes",
+        "honoraires",
+        "jurisprudence",
+        "roles_permissions",
+        "audit",
+        "notifications"
+      ],
+      "dataSets": {
+        "https://afrilandfirstbankcmr.sharepoint.com/sites/Audiences": {
+          "dataSources": {
+            "audiences": {
+              "tableName": "Audiences"
+            },
+            "utilisateurs": {
+              "tableName": "Utilisateurs"
+            },
+            "juridictions": {
+              "tableName": "Juridictions"
+            },
+            "avocats": {
+              "tableName": "Avocats"
+            },
+            "agents": {
+              "tableName": "Agents"
+            },
+            "dossiers": {
+              "tableName": "Dossiers"
+            },
+            "parties": {
+              "tableName": "Parties"
+            },
+            "pieces": {
+              "tableName": "Pieces"
+            },
+            "deliberes": {
+              "tableName": "Deliberes"
+            },
+            "honoraires": {
+              "tableName": "Honoraires"
+            },
+            "jurisprudence": {
+              "tableName": "Jurisprudence"
+            },
+            "roles_permissions": {
+              "tableName": "roles_permissions"
+            },
+            "audit": {
+              "tableName": "audit"
+            },
+            "notifications": {
+              "tableName": "Notifications"
+            }
+          }
+        }
+      }
+    }
+  },
+  "databaseReferences": {}
+}

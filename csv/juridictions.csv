@@ -1,0 +1,5 @@
+﻿id,libelle,typeJuridiction,niveau,ville,pays,adresse,telephone,emailGreffe,isActive,notes
+jur-tpi-yde,TPI de Yaoundé Centre Administratif,TRIBUNAL_PREMIERE_INSTANCE,PREMIER_DEGRE,Yaoundé,CM,,,,TRUE,
+jur-tc-dla,Tribunal de Commerce de Douala,TRIBUNAL_COMMERCE,PREMIER_DEGRE,Douala,CM,,,,TRUE,
+jur-ca-yde,Cour d'Appel de Yaoundé,COUR_APPEL,APPEL,Yaoundé,CM,,,,TRUE,
+jur-cs-yde,Cour Suprême du Cameroun,COUR_SUPREME,CASSATION,Yaoundé,CM,,,,TRUE,
